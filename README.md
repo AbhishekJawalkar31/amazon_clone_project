@@ -1,16 +1,16 @@
-# Amazon Clone 🛒
+# Amazon Clone 
 
 A front-end clone of the Amazon homepage built using pure **HTML** and **CSS**. This project replicates the look and feel of Amazon's US homepage, including the navigation bar, hero section, product cards, and footer.
 
 ---
 
-## 📸 Preview
+## Preview
 
 > The clone mirrors the layout of [amazon.com](https://www.amazon.com), featuring the navbar, product showcase boxes, a best sellers image strip, sign-in prompt, and footer.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Responsive Navbar** — Includes the Amazon logo, delivery address indicator, search bar with category selector, sign-in, returns & orders, and cart icon.
 - **Navigation Panel** — Secondary nav bar with category links: Today's Deals, Gift Cards, Sell, Registry, Prime Video, and Customer Service.
@@ -27,7 +27,7 @@ A front-end clone of the Amazon homepage built using pure **HTML** and **CSS**. 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Usage |
 |---|---|
@@ -35,11 +35,11 @@ A front-end clone of the Amazon homepage built using pure **HTML** and **CSS**. 
 | **CSS3** | Styling, layout (Flexbox), hover effects |
 | **Font Awesome 7** | Icons (cart, location pin, search, hamburger menu) |
 
-> ⚠️ No JavaScript, frameworks, or libraries were used. This is a pure HTML + CSS project.
+> No JavaScript, frameworks, or libraries were used. This is a pure HTML + CSS project.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 amazon-clone/
@@ -79,7 +79,7 @@ amazon-clone/
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -104,7 +104,7 @@ No installations required. Just a modern web browser.
 
 ---
 
-## 🎨 Design Highlights
+## Design Highlights
 
 - Color scheme closely follows Amazon's brand palette (`#131921`, `#232F3E`, `#f08804`, `#ffd814`).
 - Flexbox is used throughout for layout — navbar, panel, product boxes, image strip, and footer.
@@ -113,7 +113,7 @@ No installations required. Just a modern web browser.
 
 ---
 
-## 📌 Known Limitations
+## Known Limitations
 
 - **Not responsive** — The layout is optimized for desktop screens and may not render well on mobile or tablet devices.
 - **No JavaScript** — Interactive features like dropdown menus, cart functionality, and search are not implemented.
@@ -122,7 +122,7 @@ No installations required. Just a modern web browser.
 
 ---
 
-## 🌱 Future Improvements
+## Future Improvements
 
 - [ ] Add CSS media queries for mobile responsiveness
 - [ ] Implement a JavaScript-powered search bar
@@ -132,14 +132,14 @@ No installations required. Just a modern web browser.
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - Inspired by [Amazon.com](https://www.amazon.com)
 - Icons provided by [Font Awesome](https://fontawesome.com)
 
 ---
 
-## 📄 License
+## License
 
 This project is intended for **educational purposes only**. All Amazon branding, trademarks, and product imagery belong to Amazon.com, Inc.
 
