@@ -124,11 +124,11 @@ No installations required. Just a modern web browser.
 
 ## Future Improvements
 
-- [ ] Add CSS media queries for mobile responsiveness
-- [ ] Implement a JavaScript-powered search bar
-- [ ] Add a working cart counter with JavaScript
-- [ ] Create additional pages (product detail, login page)
-- [ ] Replace static images with a product API
+- Add CSS media queries for mobile responsiveness
+- Implement a JavaScript-powered search bar
+- Add a working cart counter with JavaScript
+- Create additional pages (product detail, login page)
+- Replace static images with a product API
 
 ---
 
